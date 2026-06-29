@@ -1,0 +1,1747 @@
+canonical_identifier: bkk:krp/KR3ed066/v1
+canonical_location: https://kanripo.org/bkk/KR3ed066/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 和緩遺風
+  identifiers:
+    krp: KR3ed066
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed066.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ed066_000.yaml, hash: 'sha256:f18b12cafe281c621127482acf478d1889a8252351d51ec0b52f091946ed5cc1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ed066_000.markers.yaml, hash: 'sha256:2cbfc9878f4dacb25d501ec75c9f2fbba9f91ab82bb60843402c9f428aa0decf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 13387
+  label: 和緩遺風捲上
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d2
+    span:
+    - body
+    - 6
+    - 217
+  label: 上海沈賡生壬子年首方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d3
+    span:
+    - body
+    - 217
+    - 431
+  label: 又複方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d4
+    span:
+    - body
+    - 431
+    - 650
+  label: 又三複方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d5
+    span:
+    - body
+    - 650
+    - 857
+  label: 又四複方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d6
+    span:
+    - body
+    - 857
+    - 1065
+  label: 又復五方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d7
+    span:
+    - body
+    - 1065
+    - 1184
+  label: 又六愎方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d8
+    span:
+    - body
+    - 1184
+    - 1324
+  label: 附陳蓮芳案
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d9
+    span:
+    - body
+    - 1324
+    - 1500
+  label: 上海錢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d10
+    span:
+    - body
+    - 1500
+    - 1651
+  label: 又右
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d11
+    span:
+    - body
+    - 1651
+    - 1808
+  label: 錢少峰媛首方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d12
+    span:
+    - body
+    - 1808
+    - 2033
+  label: 張心壺
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d13
+    span:
+    - body
+    - 2033
+    - 2255
+  label: 杭州沈惺叔如夫人二月念五日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d14
+    span:
+    - body
+    - 2255
+    - 2414
+  label: 石門楊蔚如夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d15
+    span:
+    - body
+    - 2414
+    - 2696
+  label: 許西園郎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d16
+    span:
+    - body
+    - 2696
+    - 2835
+  label: 沈惺叔如夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d17
+    span:
+    - body
+    - 2835
+    - 2945
+  label: 錢少峰媛愎方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d18
+    span:
+    - body
+    - 2945
+    - 3116
+  label: 葉晉叔夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d19
+    span:
+    - body
+    - 3116
+    - 3288
+  label: 楊慎之夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d20
+    span:
+    - body
+    - 3288
+    - 3484
+  label: 邱問庵
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d21
+    span:
+    - body
+    - 3484
+    - 3690
+  label: 又二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d22
+    span:
+    - body
+    - 3690
+    - 3807
+  label: 周湘云
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d23
+    span:
+    - body
+    - 3807
+    - 3906
+  label: 徐榮甫郎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d24
+    span:
+    - body
+    - 3906
+    - 4143
+  label: 張連生母
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d25
+    span:
+    - body
+    - 4143
+    - 4306
+  label: 溫馥園
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d26
+    span:
+    - body
+    - 4306
+    - 4395
+  label: 潘調梅夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d27
+    span:
+    - body
+    - 4395
+    - 4540
+  label: 金谷人夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d28
+    span:
+    - body
+    - 4540
+    - 4616
+  label: 又郎
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d29
+    span:
+    - body
+    - 4616
+    - 4730
+  label: 孫筱莊媛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d30
+    span:
+    - body
+    - 4730
+    - 4796
+  label: 某右
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d31
+    span:
+    - body
+    - 4796
+    - 4869
+  label: 孫成章
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d32
+    span:
+    - body
+    - 4869
+    - 4966
+  label: 張瑞生
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d33
+    span:
+    - body
+    - 4966
+    - 5057
+  label: 落舍馮子怡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d34
+    span:
+    - body
+    - 5057
+    - 5160
+  label: 張子林
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d35
+    span:
+    - body
+    - 5160
+    - 5267
+  label: 曹佩卿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d36
+    span:
+    - body
+    - 5267
+    - 5416
+  label: 徐冠南夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d37
+    span:
+    - body
+    - 5416
+    - 5587
+  label: 朱左
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d38
+    span:
+    - body
+    - 5587
+    - 5733
+  label: 南潯潘右三月四號
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d39
+    span:
+    - body
+    - 5733
+    - 5883
+  label: 上海錢右
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d40
+    span:
+    - body
+    - 5883
+    - 6027
+  label: 王右
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d41
+    span:
+    - body
+    - 6027
+    - 6247
+  label: 金炳臣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d42
+    span:
+    - body
+    - 6247
+    - 6347
+  label: 陳伯樁母
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d43
+    span:
+    - body
+    - 6347
+    - 6433
+  label: 鄭梓相夫人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d44
+    span:
+    - body
+    - 6433
+    - 6564
+  label: 又複方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d45
+    span:
+    - body
+    - 6564
+    - 6709
+  label: 又三複方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d46
+    span:
+    - body
+    - 6709
+    - 6862
+  label: 康錦云
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d47
+    span:
+    - body
+    - 6862
+    - 7090
+  label: 沈惺叔如夫人複方五月廿三號
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d48
+    span:
+    - body
+    - 7090
+    - 7148
+  label: 又接方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d49
+    span:
+    - body
+    - 7148
+    - 7222
+  label: 錢少峰媛三改方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d50
+    span:
+    - body
+    - 7222
+    - 7471
+  label: 古越曹萃華癸丑五月下旬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d51
+    span:
+    - body
+    - 7471
+    - 7699
+  label: 又二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d52
+    span:
+    - body
+    - 7699
+    - 7928
+  label: 又三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d53
+    span:
+    - body
+    - 7928
+    - 8149
+  label: 又四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d54
+    span:
+    - body
+    - 8149
+    - 8357
+  label: 又五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d55
+    span:
+    - body
+    - 8357
+    - 8577
+  label: 又六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d56
+    span:
+    - body
+    - 8577
+    - 8831
+  label: 又七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d57
+    span:
+    - body
+    - 8831
+    - 9139
+  label: 又八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d58
+    span:
+    - body
+    - 9139
+    - 9227
+  label: 預擬通便方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d59
+    span:
+    - body
+    - 9227
+    - 9416
+  label: 吳彥臣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d60
+    span:
+    - body
+    - 9416
+    - 9640
+  label: 又複方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d61
+    span:
+    - body
+    - 9640
+    - 9859
+  label: 第三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d62
+    span:
+    - body
+    - 9859
+    - 10026
+  label: 第四方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d63
+    span:
+    - body
+    - 10026
+    - 10117
+  label: 施幼亭六月八號
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d64
+    span:
+    - body
+    - 10117
+    - 10120
+  label: 陳秉鈞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d65
+    span:
+    - body
+    - 10120
+    - 10239
+  label: 施升伯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d66
+    span:
+    - body
+    - 10239
+    - 10397
+  label: 陳品山第六方六月六號南潯人在塘樓診
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d67
+    span:
+    - body
+    - 10397
+    - 10634
+  label: 烏鎮徐安椿第一方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d68
+    span:
+    - body
+    - 10634
+    - 10842
+  label: 二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d69
+    span:
+    - body
+    - 10842
+    - 11068
+  label: 又三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d70
+    span:
+    - body
+    - 11068
+    - 11321
+  label: 又四方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d71
+    span:
+    - body
+    - 11321
+    - 11546
+  label: 又五方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d72
+    span:
+    - body
+    - 11546
+    - 11752
+  label: 又六方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d73
+    span:
+    - body
+    - 11752
+    - 11961
+  label: 父七方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d74
+    span:
+    - body
+    - 11961
+    - 12160
+  label: 又八方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d75
+    span:
+    - body
+    - 12160
+    - 12345
+  label: 又九方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d76
+    span:
+    - body
+    - 12345
+    - 12542
+  label: 又十方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d77
+    span:
+    - body
+    - 12542
+    - 12704
+  label: 又十一方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d78
+    span:
+    - body
+    - 12704
+    - 12969
+  label: 又十二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d79
+    span:
+    - body
+    - 12969
+    - 13185
+  label: 又十三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d2d80
+    span:
+    - body
+    - 13185
+    - 13387
+  label: 叉十四方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3.h1s1
+    span:
+    - body
+    - 13387
+    - 30386
+  label: 和緩遺風捲下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d2
+    span:
+    - body
+    - 13393
+    - 13597
+  label: 又十五方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d3
+    span:
+    - body
+    - 13597
+    - 13827
+  label: 又十六方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d4
+    span:
+    - body
+    - 13827
+    - 14032
+  label: 又十七方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d5
+    span:
+    - body
+    - 14032
+    - 14227
+  label: 新市徐偉人首方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d6
+    span:
+    - body
+    - 14227
+    - 14364
+  label: 又二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d7
+    span:
+    - body
+    - 14364
+    - 14485
+  label: 又三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d8
+    span:
+    - body
+    - 14485
+    - 14626
+  label: 又四方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d9
+    span:
+    - body
+    - 14626
+    - 14791
+  label: 又五方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d10
+    span:
+    - body
+    - 14791
+    - 15056
+  label: 又六方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d11
+    span:
+    - body
+    - 15056
+    - 15371
+  label: 吳興章晉泉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d12
+    span:
+    - body
+    - 15371
+    - 15600
+  label: 又二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d13
+    span:
+    - body
+    - 15600
+    - 15803
+  label: 又三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d14
+    span:
+    - body
+    - 15803
+    - 16039
+  label: 甲寅大塘兜陸梯云夫人首方閏五月三十日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d15
+    span:
+    - body
+    - 16039
+    - 16223
+  label: 又二方六月初一日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d16
+    span:
+    - body
+    - 16223
+    - 16407
+  label: 又三方初二日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d17
+    span:
+    - body
+    - 16407
+    - 16651
+  label: 又四方初三日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d18
+    span:
+    - body
+    - 16651
+    - 16834
+  label: 又五方初四日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d19
+    span:
+    - body
+    - 16834
+    - 17037
+  label: 又六方初五日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d20
+    span:
+    - body
+    - 17037
+    - 17262
+  label: 又七方初六日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d21
+    span:
+    - body
+    - 17262
+    - 17466
+  label: 又八方初七日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d22
+    span:
+    - body
+    - 17466
+    - 17666
+  label: 又九方初八日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d23
+    span:
+    - body
+    - 17666
+    - 17972
+  label: 又十方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d24
+    span:
+    - body
+    - 17972
+    - 18150
+  label: 又十一方十七日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d25
+    span:
+    - body
+    - 18150
+    - 18315
+  label: 又十二方二十日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d26
+    span:
+    - body
+    - 18315
+    - 18503
+  label: 又十三方二十三日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d27
+    span:
+    - body
+    - 18503
+    - 18707
+  label: 又十四方二一十四日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d28
+    span:
+    - body
+    - 18707
+    - 18880
+  label: 又十五方二十五日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d29
+    span:
+    - body
+    - 18880
+    - 19113
+  label: 又十六方二十六日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d30
+    span:
+    - body
+    - 19113
+    - 19121
+  label: 又十七方二十七日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d31
+    span:
+    - body
+    - 19121
+    - 19291
+  label: 又十八方二十八日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d32
+    span:
+    - body
+    - 19291
+    - 19492
+  label: 又十九方二十九日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d33
+    span:
+    - body
+    - 19492
+    - 19662
+  label: 又二十方七月初一日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d34
+    span:
+    - body
+    - 19662
+    - 19847
+  label: 又二十一方初二日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d35
+    span:
+    - body
+    - 19847
+    - 20027
+  label: 又二十二方初三日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d36
+    span:
+    - body
+    - 20027
+    - 20185
+  label: 又二十三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d37
+    span:
+    - body
+    - 20185
+    - 20338
+  label: 又預擬方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d38
+    span:
+    - body
+    - 20338
+    - 20529
+  label: 申江徐蒼菽首方六月初九日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d39
+    span:
+    - body
+    - 20529
+    - 20776
+  label: 又二方初十日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d40
+    span:
+    - body
+    - 20776
+    - 21015
+  label: 又三方十一日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d41
+    span:
+    - body
+    - 21015
+    - 21226
+  label: 又四方十二日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d42
+    span:
+    - body
+    - 21226
+    - 21427
+  label: 又五方十三日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d43
+    span:
+    - body
+    - 21427
+    - 21624
+  label: 又六方十四日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d44
+    span:
+    - body
+    - 21624
+    - 21825
+  label: 又七方十五日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d45
+    span:
+    - body
+    - 21825
+    - 22020
+  label: 又八方十六日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d46
+    span:
+    - body
+    - 22020
+    - 22207
+  label: 震澤徐眉泉母六月初六日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d47
+    span:
+    - body
+    - 22207
+    - 22391
+  label: 又二方初九日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d48
+    span:
+    - body
+    - 22391
+    - 22568
+  label: 又三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d49
+    span:
+    - body
+    - 22568
+    - 22744
+  label: 又四方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d50
+    span:
+    - body
+    - 22744
+    - 22906
+  label: 又五方七月朔日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d51
+    span:
+    - body
+    - 22906
+    - 23121
+  label: 南潯陳回生六月初四日十歲一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d52
+    span:
+    - body
+    - 23121
+    - 23286
+  label: 又二方初六日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d53
+    span:
+    - body
+    - 23286
+    - 23453
+  label: 又三方初八日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d54
+    span:
+    - body
+    - 23453
+    - 23608
+  label: 又四方十六日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d55
+    span:
+    - body
+    - 23608
+    - 23740
+  label: 束閣兜徐惠人夫人六月廿九日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d56
+    span:
+    - body
+    - 23740
+    - 23876
+  label: 又二方初二日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d57
+    span:
+    - body
+    - 23876
+    - 24137
+  label: 苔溪徐佩卿郎六月十八日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d58
+    span:
+    - body
+    - 24137
+    - 24320
+  label: 苔溪徐佩卿郎六月十八日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d59
+    span:
+    - body
+    - 24320
+    - 24459
+  label: 又二方十九日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d60
+    span:
+    - body
+    - 24459
+    - 24624
+  label: 郭守良
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d61
+    span:
+    - body
+    - 24624
+    - 24931
+  label: 又二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d62
+    span:
+    - body
+    - 24931
+    - 25055
+  label: 朱鐵珊夫人叔泉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d63
+    span:
+    - body
+    - 25055
+    - 25164
+  label: 又二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d64
+    span:
+    - body
+    - 25164
+    - 25291
+  label: 又三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d65
+    span:
+    - body
+    - 25291
+    - 25426
+  label: 又四方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d66
+    span:
+    - body
+    - 25426
+    - 25563
+  label: 又五方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d67
+    span:
+    - body
+    - 25563
+    - 25843
+  label: 長興董子文三月甘七日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d68
+    span:
+    - body
+    - 25843
+    - 26083
+  label: 又二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d69
+    span:
+    - body
+    - 26083
+    - 26320
+  label: 又三方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d70
+    span:
+    - body
+    - 26320
+    - 26469
+  label: 申江邢鈞庵夫人八月十二日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d71
+    span:
+    - body
+    - 26469
+    - 26607
+  label: 又二方十三日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d72
+    span:
+    - body
+    - 26607
+    - 26763
+  label: 又三方十四日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d73
+    span:
+    - body
+    - 26763
+    - 26912
+  label: 又四方中秋節
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d74
+    span:
+    - body
+    - 26912
+    - 27071
+  label: 又五方十六日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d75
+    span:
+    - body
+    - 27071
+    - 27233
+  label: 又六方十七日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d76
+    span:
+    - body
+    - 27233
+    - 27393
+  label: 又七方十八日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d77
+    span:
+    - body
+    - 27393
+    - 27589
+  label: 又八方十九日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d78
+    span:
+    - body
+    - 27589
+    - 27746
+  label: 又九方二十日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d79
+    span:
+    - body
+    - 27746
+    - 27905
+  label: 又十方二十一日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d80
+    span:
+    - body
+    - 27905
+    - 28069
+  label: 又十一方二十二日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d81
+    span:
+    - body
+    - 28069
+    - 28229
+  label: 又十二方二十三日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d82
+    span:
+    - body
+    - 28229
+    - 28396
+  label: 又十三方二十四日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d83
+    span:
+    - body
+    - 28396
+    - 28556
+  label: 又十四方二十五日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d84
+    span:
+    - body
+    - 28556
+    - 28739
+  label: 又十五方二十六日是日貼洞天毓真膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d85
+    span:
+    - body
+    - 28739
+    - 28896
+  label: 又十六方二十七日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d86
+    span:
+    - body
+    - 28896
+    - 29065
+  label: 又十七方二十八日
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d87
+    span:
+    - body
+    - 29065
+    - 29214
+  label: 又預擬續方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d88
+    span:
+    - body
+    - 29214
+    - 29278
+  label: 又預擬再續方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d89
+    span:
+    - body
+    - 29278
+    - 29471
+  label: 附陳蓮芳治光緒皇上案
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d90
+    span:
+    - body
+    - 29471
+    - 29704
+  label: 綠費純甫先生案
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d91
+    span:
+    - body
+    - 29704
+    - 29854
+  label: 復診第二方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed066_jc_000-d3d92
+    span:
+    - body
+    - 29854
+    - 30386
+  label: 某
+  type: section
+  level: 2
+hash: sha256:dcd5a0e4f0befe2358cfe4750400b08f4df6f3e171f66aea087b12eb81ffcdd1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
