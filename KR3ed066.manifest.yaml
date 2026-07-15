@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed066/v1
 canonical_location: https://kanripo.org/bkk/KR3ed066/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 和緩遺風
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed066_000.yaml, hash: 'sha256:412f30ffdf515fe483368532d89c9fdb6d06a11f56ecc0bddebe8ae2d21e6ce5'}
+  - {seq: 0, filename: KR3ed066_000.yaml, hash: 'sha256:ece3b4d20c427996a41bde9360bbb122ace5d080cea5cbc25301b822ad4402ac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed066_000.markers.yaml, hash: 'sha256:01c8a7ad4cfc487e7b467765b4ea6f2bbff65fda19fd6c1e34feaa40d435a83f'}
+  - {seq: 0, role: markers, filename: assets/KR3ed066_000.markers.yaml, hash: 'sha256:d461d1ede1b38a0d628548cd4b59326be97dfefeb80117d4de08248132a62aba'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1741,4 +1741,7 @@ table_of_contents:
   label: 某
   type: section
   level: 2
-hash: sha256:3ee614ae3968b8c2459947d362c58469c941e200af62d6113a84ea27e148a400
+hash: sha256:e2e6602e2b8f25462992966f0a53939021e812bad4cef325c919c2f6467e29ae
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
